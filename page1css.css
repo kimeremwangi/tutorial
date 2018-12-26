@@ -1,0 +1,29 @@
+h1{
+  color: green;
+  <!-- text-align: center; -->
+}
+table{
+  border: 2px solid black;
+  border-collapse: collapse;
+  width: 50%;
+  text-align: center;
+}
+th, td{
+  border: 1px solid black;
+  padding: 5px;
+}
+th{
+  background-color: lightgrey;
+}
+#form_div{
+  padding: 20px;
+  padding-left: 50px;
+  width: 50%;
+
+}
+#table_div{
+  padding-left: 50px;
+}
+#main_header{
+  padding-left: 50px;
+}
