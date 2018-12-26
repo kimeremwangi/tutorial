@@ -27,3 +27,7 @@ th{
 #main_header{
   padding-left: 50px;
 }
+.make_bold{
+  font-weight: bold;
+  font-style: italic;
+}
